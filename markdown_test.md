@@ -4,3 +4,7 @@
 
 ##### Name: Vaishvik Brahmbhatt
 ###### CWID: 20011389
+
+### Adding Image
+![Modern Computer](computer.jpeg)
+
