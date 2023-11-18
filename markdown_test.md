@@ -16,3 +16,9 @@ def course_name():
     print("AAI 551 - Engineering Programming Python!!")
 course_name()
 
+### Task List
+
+- [ ] Task 1
+- [ ] Task 2
+- [x] Task 3 (Completed)
+- [ ] Task 4
